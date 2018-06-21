@@ -2,7 +2,7 @@
 たまにおちょこちょい
 あったかく
 たくましい体の
-な
+中原
 
 
 
@@ -13,3 +13,6 @@
 　* テスト
 
 aiuoe
+
+## うわああああ
+<code>git clone git@github.com:koji-takahashi-6612/test.git</code>
